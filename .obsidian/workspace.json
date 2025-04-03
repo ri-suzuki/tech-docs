@@ -4,19 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2f3e1b6b539769",
+        "id": "a851a545af076dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "65cf455861e47451",
+            "id": "3ab4747b77b3dd24",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
               "title": "Diff: workspace.json"
@@ -54,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#GoogleAIStudio",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -75,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub Appsの基本と実装方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "GitHub Appsの基本と実装方法へのバックリンク"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub Appsの基本と実装方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "GitHub Appsの基本と実装方法からのアウトゴーイングリンク"
             }
           },
           {
@@ -177,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65cf455861e47451",
+  "active": "3ab4747b77b3dd24",
   "lastOpenFiles": [
+    "Google AI Studio入門：Geminiモデルをブラウザで手軽に試す！.md",
+    "LLMをローカルでホスティングする方法について調査した.md",
     "GitHub Appsの基本と実装方法.md",
     "2025-04-03.md"
   ]
